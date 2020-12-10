@@ -1,0 +1,10 @@
+//Webpack: é parecido com o babel, ele transpila seu codigo para js puro e mais antigo para ser compativel com todos navegadores.
+
+//-------------------INSTALAÇÃO WEBPACK:------------------------//
+//cmd para instalar dependencias dev: npm install --save-dev @babel/preset-env @babel/cli @babel/core babel-loader webpack webpack-cli
+//cmd para instalar dependencias, apos o de cima: npm i regenerator-runtime core-js --save
+
+
+//----OBS:
+//O video so começa a explicar mais a fundo a partir dos 15min.
+// npm run -w : comando para iniciar o webpack, e o w é para ficar assistindo tipo o nodemon.

@@ -1,0 +1,12 @@
+//Babel: é um compilador de codigo atual para codigos mais antigos, com isso funcione em navegadores mais antigos.
+
+//------------------------------instalando babel-----------------------------//
+//iniciando o npm: npm init -y
+//instalando babel: npm install --save-dev @babel/cli @babel/preset-env @babel/core 
+
+
+//-----------------------------utilizando o babel----------------------------//
+//Para rodar algum script: npx babel main.js -o bundle.js --presets=@babel/env
+
+//NÃO FUNCIONOU.
+
