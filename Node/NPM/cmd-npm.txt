@@ -1,0 +1,18 @@
+//EXEMPLOS
+
+devdependencies: é uma chave no package.json onde fica as dependencias de desenvolvimento apenas e não as do projeto.
+
+npm install express -E  : com o comando -E esse pacote sempre vai manter na versão que esta, se não tivesse ele iria sempre ficar atualizando quando saisse update.
+
+npm update : buscar atualizar as dependencias instaladas.
+
+npm i express --save-dev : passando ou instalando alguma dependencia em modo de devdependencies.
+
+npm i express --save-prod : passando a dependencia para o modo de produção(passando para o modo normal padrão).
+
+npm install express@2.1.0 : instalando uam versão expecifica de uma dependencia.
+
+npm uninstall express : desinstalando a dependencia.
+
+npm outdated : verificar quais dependencias estão desatualizadas.
+
